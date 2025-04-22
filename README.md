@@ -3,7 +3,7 @@
 
 Welcome to the official project page of **ROBOCON CNC Pvt Ltd**, a precision CNC machining company based in Pune, India. This project highlights our capabilities in manufacturing high-accuracy CNC machined parts used in **lab equipment**, **scientific instrumentation**, and **industrial automation**.
 
-![CNC Components](https://roboconcnc.com/files/cnc-lab-parts.jpg)
+![CNC Components]([https://roboconcnc.com/files/cnc-lab-parts.jpg](https://roboconcnc.com/files/5-axis-cnc-machining-mazak-c600.jpg))
 
 ---
 
